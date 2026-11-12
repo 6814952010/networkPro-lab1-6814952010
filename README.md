@@ -10,10 +10,10 @@
 
 #### รูปที่ 1: ภาพหน้าจอ Terminal ตอนทดสอบส่งข้อความระหว่าง Client-Server ของ TCP Echo
 <p align="center">
-  <img src="images/tcp.png" alt="Project screenshot" width="700">
+  <img src="image/tcp.png" alt="Project screenshot" width="700">
 </p>
 
 #### รูปที่ 2: ภาพหน้าจอ Terminal ตอนทดสอบส่งข้อความระหว่าง Client-Server ของ UDP Echo
 <p align="center">
-  <img src="images/udp.png" alt="Project screenshot" width="700">
+  <img src="image/udp.png" alt="Project screenshot" width="700">
 </p>
